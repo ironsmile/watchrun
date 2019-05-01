@@ -1,0 +1,6 @@
+# github.com/fsnotify/fsnotify v1.4.7
+github.com/fsnotify/fsnotify
+# github.com/ironsmile/logger v1.0.0
+github.com/ironsmile/logger
+# golang.org/x/sys v0.0.0-20190429190828-d89cdac9e872
+golang.org/x/sys/unix
